@@ -1,4 +1,4 @@
-![image](icon.png)
+<img src="icon.png" width=90 />
 
 # about
 
