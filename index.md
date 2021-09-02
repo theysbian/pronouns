@@ -31,7 +31,8 @@ Write your about.
 ----------------------
 
 ## pronouns 4
-A list of my pronouns!
+- they/them
+- he/him
 
 ### **they/them**
 
