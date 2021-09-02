@@ -15,6 +15,9 @@ Write your about.
 ## terms
 - masc and neutral
 
+## flags
+<img src="lesbian.png" width=21 /> **lesbian** <img src="nonbinary.png" width=21 /> **nonbinary**
+
 ## links
 - [curiouscat](http://curiouscat.qa/theybian)
 
