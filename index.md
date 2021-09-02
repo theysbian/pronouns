@@ -1,3 +1,5 @@
+![image](icon.png)
+
 # about
 
 Write your about.
@@ -19,3 +21,5 @@ Write your about.
 ## twitter accounts
 - [main](http://twitter.com/theybian)
 - [positivity](http://twitter.com/agenderlesbians)
+
+![image](header.jpg)
