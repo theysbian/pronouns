@@ -38,7 +38,7 @@ A list of my pronouns!
 - This morning, **they** went to the park. 
 - I went with **them**. 
 - And **they** brought **their**  frisbee. 
-- - At least I think it was **theirs**. 
+- At least I think it was **theirs**. 
 - By the end of the day, **they** started throwing the frisbee to **themselves**.
 
 ### **he/him**
